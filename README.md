@@ -1,5 +1,7 @@
 Valentine Project for Mackenzie :)
 
+WebApp that will create a basic webpage with some CSS, Javascript, and HTML that will display a gif create two buttons (yes and no) where if the no button is clicked then the yes button will grow in size and then the no button will change positions indefinitely. Upon clicking yes a new gif will replace the previous and some text displaying how many times the no button is clicked will appear if the no button was interacted with.
+
 
 - Configure the top-level `parserOptions` property like this:
 
