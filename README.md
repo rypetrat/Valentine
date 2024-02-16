@@ -1,4 +1,4 @@
-Valentine Project for Mackenzie
+Valentine Project for Mackenzie :)
 
 
 - Configure the top-level `parserOptions` property like this:
